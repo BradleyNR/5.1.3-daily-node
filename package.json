@@ -1,0 +1,16 @@
+{
+  "name": "5.1.3-daily-time",
+  "version": "1.0.0",
+  "description": "A date/time program ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brad",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "moment": "^2.18.1"
+  }
+}
